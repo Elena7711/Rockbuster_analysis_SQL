@@ -25,4 +25,4 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 
 ## Visualizations
 
-Visualizations were created in Tableau.  The link to the storyboard can be found here: [Rockbuster Visuals]
+Visualizations were created in Tableau.  The link to the storyboard can be found here: (https://public.tableau.com/app/profile/olena.sharvara/viz/HighestTotalAmountPaid/RockbusterDataAnalisys)
